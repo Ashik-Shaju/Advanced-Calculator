@@ -1,9 +1,6 @@
 # Advanced-Calculator
 Advanced Calculator with Continuity , Clear/Back button, Restart button and Exit button. All using Python
-Certainly! Here's a sample README file for your advanced calculator program:
-
 ---
-
 # Advanced Calculator
 
 ## Overview
@@ -67,10 +64,4 @@ The program ensures that:
 
 Feel free to contribute to the project by forking the repository and submitting a pull request with your improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-Feel free to modify any section to better match your project's details or your preferences!
